@@ -7,3 +7,7 @@ Project was originally created in Java Applet, but have been recently migrated t
 The scene consist of a house, some chairs and tables, and a tree with 3d leaves and flowers that moves with wind. The project is in a day-night cycle. As the time of the day changes, lighting direction and intensity also changes. Night time stars are visible.
 
 The prject is interactive. Press W, A, S or D to move the camera, I, J, K or L to rotate the camera. Press - to decrease wind strength, = to increase wind strength. Press SPACE to reset camera.
+
+![Day time](./day_time.png)
+
+![Night time](./night_time.png)
